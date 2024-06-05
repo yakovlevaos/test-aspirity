@@ -1,0 +1,102 @@
+[
+  {
+    "id": "0",
+    "avatar": "avatar.svg",
+    "personFamilyName": "Иванов",
+    "personFirstName": "Иван",
+    "personPatronymic": "Иванович",
+    "position": "Junior UI/UX designer",
+    "location": "Россия, Красноярск",
+    "time": "14:03",
+    "vacationAvailable": 32,
+    "vacationPlanned": 8,
+    "vacationUnavailable": 4,
+    "vacationHistory": [
+      {
+        "id": 1,
+        "type": "Отпуск",
+        "start": "03 марта 2023",
+        "finish": "23 марта 2023",
+        "daysNumber": "20"
+      },
+      {
+        "id": 2,
+        "type": "Больничный",
+        "start": "03 марта 2023",
+        "finish": "07 марта 2023",
+        "daysNumber": "4"
+      },
+      {
+        "id": 3,
+        "type": "Больничный",
+        "start": "03 марта 2023",
+        "finish": "07 марта 2023",
+        "daysNumber": "4"
+      },
+      {
+        "id": 4,
+        "type": "Больничный",
+        "start": "03 марта 2023",
+        "finish": "07 марта 2023",
+        "daysNumber": "4"
+      },
+      {
+        "id": 5,
+        "type": "Больничный",
+        "start": "03 марта 2023",
+        "finish": "07 марта 2023",
+        "daysNumber": "4"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "avatar": "avatar.svg",
+    "personFamilyName": "Петров",
+    "personFirstName": "Петр",
+    "personPatronymic": "Петрович",
+    "position": "Junior UI/UX designer",
+    "location": "Россия, Красноярск",
+    "time": "14:03",
+    "vacationAvailable": 32,
+    "vacationPlanned": 8,
+    "vacationUnavailable": 4,
+    "vacationHistory": [
+      {
+        "id": 1,
+        "type": "Отпуск",
+        "start": "03 марта 2023",
+        "finish": "23 марта 2023",
+        "daysNumber": "20"
+      },
+      {
+        "id": 2,
+        "type": "Больничный",
+        "start": "03 марта 2023",
+        "finish": "07 марта 2023",
+        "daysNumber": "4"
+      },
+      {
+        "id": 3,
+        "type": "Больничный",
+        "start": "03 марта 2023",
+        "finish": "07 марта 2023",
+        "daysNumber": "4"
+      },
+      {
+        "id": 4,
+        "type": "Больничный",
+        "start": "03 марта 2023",
+        "finish": "07 марта 2023",
+        "daysNumber": "4"
+      },
+      {
+        "id": 5,
+        "type": "Больничный",
+        "start": "03 марта 2023",
+        "finish": "07 марта 2023",
+        "daysNumber": "4"
+      }
+    ]
+  }
+]
