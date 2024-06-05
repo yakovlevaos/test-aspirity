@@ -29,6 +29,7 @@ export default function Popover() {
   return (
     <div
       className="relative flex items-center"
+      onClick={handleMouseEnter}
       onMouseEnter={handleMouseEnter}
       onMouseLeave={handleMouseLeave}
     >
@@ -36,7 +37,7 @@ export default function Popover() {
       {isVisible && (
         <div
           ref={popoverRef}
-          className="absolute left-full ml-4 z-10 bg-popover text-primary px-2.5 py-1.5 text-sm whitespace-nowrap"
+          className="absolute left-full ml-4 z-10 bg-popover text-primary px-2.5 py-1.5 text-sm md:whitespace-nowrap"
         >
           <p>1 раб. месяц = 3 дня отпуска</p>
         </div>
