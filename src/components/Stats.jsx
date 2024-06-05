@@ -4,7 +4,7 @@ import Popover from "@/components/Popover";
 
 export default function Stats({ item }) {
   return (
-    <div className="flex flex-col w-full justify-start bg-bgGray pb-4 rounded-xl gap-y-4 md:gap-y-2 md:min-w-2/6 md:max-w-[516px]">
+    <div className="flex flex-col w-full justify-start bg-bgGray pb-4 rounded-xl gap-y-4 mb-4 md:gap-y-2 md:mb-0 md:min-w-2/6 md:max-w-[516px]">
       <div className="flex flex-row justify-start items-center gap-2 px-4 pt-8 md:px-7 md:pt-7 md:pb-3">
         <p className="text-primary text-base font-medium md:text-2xl md:font-normal">
           Статистика
