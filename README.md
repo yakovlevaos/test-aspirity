@@ -7,4 +7,4 @@ yarn dev<br/>
 pnpm dev<br/>
 bun dev
 
-Проект на тестовой платформе: https://test-aspirity-rgkjg7sox-yakovlevaos-projects.vercel.app/
+Проект на тестовой платформе: https://test-aspirity-yakovlevaos-projects.vercel.app/
